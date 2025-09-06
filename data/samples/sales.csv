@@ -1,0 +1,41 @@
+TransactionID,Date,ProductID,ProductName,Category,Quantity,UnitPrice,TotalAmount,CustomerID,CustomerName,CustomerType,PaymentMethod,SalesRep,Region
+TXN001,2024-01-15,P001,Wireless Headphones,Electronics,2,89.99,179.98,C001,John Smith,Premium,Credit Card,Sarah Johnson,North
+TXN002,2024-01-15,P002,Coffee Maker,Appliances,1,129.50,129.50,C002,Emily Davis,Regular,Debit Card,Mike Wilson,South
+TXN003,2024-01-16,P003,Running Shoes,Sports,1,149.99,149.99,C003,Robert Brown,Regular,Cash,Tom Anderson,East
+TXN004,2024-01-16,P001,Wireless Headphones,Electronics,1,89.99,89.99,C004,Lisa Wilson,Premium,Credit Card,Sarah Johnson,North
+TXN005,2024-01-17,P004,Yoga Mat,Sports,3,24.99,74.97,C005,David Miller,Regular,Credit Card,Lisa Garcia,West
+TXN006,2024-01-17,P005,Bluetooth Speaker,Electronics,1,79.99,79.99,C001,John Smith,Premium,Credit Card,Sarah Johnson,North
+TXN007,2024-01-18,P006,Kitchen Knife Set,Kitchen,1,199.99,199.99,C006,Jennifer Taylor,Premium,Debit Card,Mike Wilson,South
+TXN008,2024-01-18,P002,Coffee Maker,Appliances,2,129.50,259.00,C007,Michael Thompson,Regular,Cash,Tom Anderson,East
+TXN009,2024-01-19,P007,Office Chair,Furniture,1,299.99,299.99,C008,Susan White,Business,Credit Card,Lisa Garcia,West
+TXN010,2024-01-19,P003,Running Shoes,Sports,2,149.99,299.98,C009,Christopher Lee,Regular,Credit Card,Sarah Johnson,North
+TXN011,2024-01-20,P008,Laptop Bag,Electronics,1,49.99,49.99,C010,Amanda Harris,Regular,Debit Card,Mike Wilson,South
+TXN012,2024-01-20,P004,Yoga Mat,Sports,1,24.99,24.99,C003,Robert Brown,Regular,Cash,Tom Anderson,East
+TXN013,2024-01-21,P009,Desk Lamp,Furniture,2,39.99,79.98,C011,Daniel Martinez,Regular,Credit Card,Lisa Garcia,West
+TXN014,2024-01-21,P001,Wireless Headphones,Electronics,3,89.99,269.97,C012,Laura Anderson,Premium,Credit Card,Sarah Johnson,North
+TXN015,2024-01-22,P010,Water Bottle,Sports,5,15.99,79.95,C013,Kevin Clark,Regular,Debit Card,Mike Wilson,South
+TXN016,2024-01-22,P005,Bluetooth Speaker,Electronics,1,79.99,79.99,C014,Michelle Rodriguez,Premium,Cash,Tom Anderson,East
+TXN017,2024-01-23,P006,Kitchen Knife Set,Kitchen,1,199.99,199.99,C015,James Wilson,Premium,Credit Card,Lisa Garcia,West
+TXN018,2024-01-23,P011,Gaming Mouse,Electronics,2,69.99,139.98,C016,Patricia Moore,Regular,Debit Card,Sarah Johnson,North
+TXN019,2024-01-24,P007,Office Chair,Furniture,1,299.99,299.99,C017,Ryan Taylor,Business,Credit Card,Mike Wilson,South
+TXN020,2024-01-24,P002,Coffee Maker,Appliances,1,129.50,129.50,C018,Nicole Thomas,Regular,Cash,Tom Anderson,East
+TXN021,2024-01-25,P012,Tablet Stand,Electronics,3,29.99,89.97,C019,Brandon Jackson,Regular,Credit Card,Lisa Garcia,West
+TXN022,2024-01-25,P003,Running Shoes,Sports,1,149.99,149.99,C020,Stephanie White,Regular,Debit Card,Sarah Johnson,North
+TXN023,2024-01-26,P013,Cookbook,Books,2,19.99,39.98,C021,Timothy Martin,Regular,Cash,Mike Wilson,South
+TXN024,2024-01-26,P004,Yoga Mat,Sports,4,24.99,99.96,C022,Rachel Thompson,Regular,Credit Card,Tom Anderson,East
+TXN025,2024-01-27,P014,Phone Case,Electronics,1,25.99,25.99,C023,Jonathan Garcia,Regular,Debit Card,Lisa Garcia,West
+TXN026,2024-01-27,P009,Desk Lamp,Furniture,1,39.99,39.99,C024,Samantha Martinez,Regular,Credit Card,Sarah Johnson,North
+TXN027,2024-01-28,P015,Protein Powder,Health,1,49.99,49.99,C025,Andrew Rodriguez,Regular,Cash,Mike Wilson,South
+TXN028,2024-01-28,P001,Wireless Headphones,Electronics,1,89.99,89.99,C026,Jessica Lee,Premium,Credit Card,Tom Anderson,East
+TXN029,2024-01-29,P005,Bluetooth Speaker,Electronics,2,79.99,159.98,C027,Matthew Gonzalez,Premium,Debit Card,Lisa Garcia,West
+TXN030,2024-01-29,P016,Travel Mug,Kitchen,3,22.99,68.97,C028,Ashley Wilson,Regular,Cash,Sarah Johnson,North
+TXN031,2024-01-30,P007,Office Chair,Furniture,2,299.99,599.98,C029,Joshua Anderson,Business,Credit Card,Mike Wilson,South
+TXN032,2024-01-30,P017,Fitness Tracker,Electronics,1,199.99,199.99,C030,Megan Thomas,Premium,Debit Card,Tom Anderson,East
+TXN033,2024-01-31,P010,Water Bottle,Sports,2,15.99,31.98,C031,Tyler Jackson,Regular,Cash,Lisa Garcia,West
+TXN034,2024-01-31,P002,Coffee Maker,Appliances,1,129.50,129.50,C032,Brittany Martin,Regular,Credit Card,Sarah Johnson,North
+TXN035,2024-02-01,P018,Notebook Set,Office,4,12.99,51.96,C033,Zachary Taylor,Regular,Debit Card,Mike Wilson,South
+TXN036,2024-02-01,P003,Running Shoes,Sports,1,149.99,149.99,C034,Amber Brown,Regular,Cash,Tom Anderson,East
+TXN037,2024-02-02,P019,Candle Set,Home,2,34.99,69.98,C035,Alexander Davis,Regular,Credit Card,Lisa Garcia,West
+TXN038,2024-02-02,P011,Gaming Mouse,Electronics,1,69.99,69.99,C036,Danielle Miller,Regular,Debit Card,Sarah Johnson,North
+TXN039,2024-02-03,P020,Pillow,Home,2,39.99,79.98,C037,Christian Wilson,Regular,Cash,Mike Wilson,South
+TXN040,2024-02-03,P006,Kitchen Knife Set,Kitchen,1,199.99,199.99,C038,Kayla Moore,Premium,Credit Card,Tom Anderson,East

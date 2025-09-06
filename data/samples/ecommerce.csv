@@ -1,0 +1,201 @@
+TransactionID,Date,ProductName,Category,Quantity,UnitPrice,TotalAmount,CustomerType
+TXN0001,2024-01-01,Desk Chair,Furniture,3,207.48,591.32,Premium
+TXN0002,2024-02-29,Desk Chair,Furniture,2,216.96,433.92,Regular
+TXN0003,2024-03-16,Smartphone,Electronics,3,624.27,1872.8,Regular
+TXN0004,2024-01-28,Yoga Mat,Sports,2,30.04,57.07,Premium
+TXN0005,2024-02-11,Running Shoes,Sports,3,142.57,406.33,Premium
+TXN0006,2024-01-11,Vitamins,Health,3,22.6,67.8,Regular
+TXN0007,2024-01-20,Laptop,Electronics,3,1380.3,4140.91,Regular
+TXN0008,2024-02-12,Smartphone,Electronics,1,582.39,582.39,Premium
+TXN0009,2024-03-26,Vitamins,Health,2,27.27,54.53,Regular
+TXN0010,2024-01-05,Desk Chair,Furniture,2,197.97,376.15,Premium
+TXN0011,2024-03-18,Laptop,Electronics,3,1416.75,4250.26,Regular
+TXN0012,2024-02-10,Blender,Appliances,2,83.0,166.01,Regular
+TXN0013,2024-03-03,Protein Powder,Health,3,49.54,148.62,Regular
+TXN0014,2024-03-30,Desk Chair,Furniture,3,216.46,649.37,Regular
+TXN0015,2024-03-21,Headphones,Electronics,3,145.01,435.04,Regular
+TXN0016,2024-02-28,Running Shoes,Sports,2,132.24,264.47,Regular
+TXN0017,2024-01-05,Coffee Maker,Appliances,1,85.01,85.01,Regular
+TXN0018,2024-03-24,Protein Powder,Health,3,53.69,161.06,Regular
+TXN0019,2024-03-31,Coffee Maker,Appliances,1,94.64,94.64,Premium
+TXN0020,2024-03-18,Yoga Mat,Sports,2,30.98,61.97,New
+TXN0021,2024-02-28,Vitamins,Health,3,25.89,73.79,Premium
+TXN0022,2024-01-18,Running Shoes,Sports,2,135.32,270.65,Regular
+TXN0023,2024-01-21,Protein Powder,Health,3,50.66,144.39,Premium
+TXN0024,2024-02-28,Blender,Appliances,2,83.23,158.14,Premium
+TXN0025,2024-01-03,Smartphone,Electronics,1,601.16,601.16,Premium
+TXN0026,2024-01-18,Desk Chair,Furniture,1,183.61,183.61,Regular
+TXN0027,2024-02-03,Vitamins,Health,2,26.32,50.02,Premium
+TXN0028,2024-02-05,Coffee Maker,Appliances,3,89.72,269.16,New
+TXN0029,2024-03-15,Headphones,Electronics,1,148.82,148.82,Premium
+TXN0030,2024-02-15,Smartphone,Electronics,1,623.11,623.11,Regular
+TXN0031,2024-03-07,Running Shoes,Sports,3,123.99,353.36,Premium
+TXN0032,2024-02-12,Coffee Maker,Appliances,1,95.81,95.81,Premium
+TXN0033,2024-03-07,Running Shoes,Sports,1,123.6,123.6,New
+TXN0034,2024-01-15,Desk Chair,Furniture,2,183.34,366.68,New
+TXN0035,2024-03-24,Protein Powder,Health,1,54.97,54.97,Regular
+TXN0036,2024-02-08,Running Shoes,Sports,2,128.13,243.45,Premium
+TXN0037,2024-03-19,Yoga Mat,Sports,3,32.56,92.79,Premium
+TXN0038,2024-01-04,Blender,Appliances,2,82.75,157.23,Premium
+TXN0039,2024-03-28,Coffee Maker,Appliances,2,92.04,184.07,Regular
+TXN0040,2024-02-26,Headphones,Electronics,1,157.57,157.57,Regular
+TXN0041,2024-02-14,Smartphone,Electronics,3,619.63,1858.89,New
+TXN0042,2024-02-24,Yoga Mat,Sports,3,28.91,86.74,New
+TXN0043,2024-03-01,Headphones,Electronics,3,150.64,451.93,Regular
+TXN0044,2024-02-12,Laptop,Electronics,1,1174.92,1174.92,Regular
+TXN0045,2024-01-14,Coffee Maker,Appliances,2,92.71,176.14,Premium
+TXN0046,2024-03-09,Yoga Mat,Sports,3,28.89,86.66,Regular
+TXN0047,2024-02-17,Coffee Maker,Appliances,3,98.01,279.31,Premium
+TXN0048,2024-01-06,Yoga Mat,Sports,3,29.62,88.85,New
+TXN0049,2024-03-24,Laptop,Electronics,2,1240.87,2481.73,Regular
+TXN0050,2024-01-20,Desk Chair,Furniture,1,209.76,209.76,New
+TXN0051,2024-03-30,Yoga Mat,Sports,1,32.46,32.46,Regular
+TXN0052,2024-01-16,Vitamins,Health,3,22.7,64.69,Premium
+TXN0053,2024-02-15,Running Shoes,Sports,1,128.38,128.38,New
+TXN0054,2024-03-05,Yoga Mat,Sports,2,31.04,58.97,Premium
+TXN0055,2024-01-07,Desk Chair,Furniture,1,207.35,207.35,Regular
+TXN0056,2024-02-22,Blender,Appliances,2,85.45,170.9,Regular
+TXN0057,2024-02-02,Headphones,Electronics,3,146.71,440.12,New
+TXN0058,2024-02-11,Blender,Appliances,3,78.59,235.78,Regular
+TXN0059,2024-02-17,Coffee Maker,Appliances,3,89.66,255.53,Premium
+TXN0060,2024-01-27,Laptop,Electronics,2,1291.03,2582.05,New
+TXN0061,2024-03-16,Blender,Appliances,2,85.21,170.41,Regular
+TXN0062,2024-03-16,Laptop,Electronics,3,1172.39,3517.16,Regular
+TXN0063,2024-02-20,Desk Chair,Furniture,3,184.63,553.88,Regular
+TXN0064,2024-01-01,Vitamins,Health,2,23.97,47.94,New
+TXN0065,2024-02-07,Vitamins,Health,2,24.84,49.67,New
+TXN0066,2024-02-20,Laptop,Electronics,3,1423.22,4056.19,Premium
+TXN0067,2024-01-10,Yoga Mat,Sports,2,27.18,54.36,Regular
+TXN0068,2024-03-02,Yoga Mat,Sports,2,29.2,58.39,Regular
+TXN0069,2024-01-29,Desk Chair,Furniture,1,218.38,218.38,Regular
+TXN0070,2024-02-16,Protein Powder,Health,2,47.46,94.93,Regular
+TXN0071,2024-02-02,Laptop,Electronics,2,1218.69,2437.37,New
+TXN0072,2024-01-28,Running Shoes,Sports,1,120.61,120.61,Premium
+TXN0073,2024-02-21,Yoga Mat,Sports,1,28.29,28.29,New
+TXN0074,2024-02-02,Running Shoes,Sports,1,124.97,124.97,Regular
+TXN0075,2024-01-21,Coffee Maker,Appliances,1,87.1,87.1,Regular
+TXN0076,2024-01-27,Blender,Appliances,3,77.3,220.3,Premium
+TXN0077,2024-02-11,Desk Chair,Furniture,2,217.94,414.08,Premium
+TXN0078,2024-01-19,Yoga Mat,Sports,1,30.13,30.13,New
+TXN0079,2024-02-29,Desk Chair,Furniture,1,218.0,218.0,Premium
+TXN0080,2024-02-28,Blender,Appliances,1,73.1,73.1,New
+TXN0081,2024-01-04,Blender,Appliances,2,86.48,172.96,New
+TXN0082,2024-01-24,Laptop,Electronics,1,1391.12,1391.12,Premium
+TXN0083,2024-01-08,Blender,Appliances,1,72.84,72.84,Regular
+TXN0084,2024-03-20,Desk Chair,Furniture,1,195.34,195.34,New
+TXN0085,2024-02-28,Blender,Appliances,3,87.54,262.61,New
+TXN0086,2024-03-29,Vitamins,Health,3,25.69,77.08,New
+TXN0087,2024-03-08,Blender,Appliances,1,78.69,78.69,Premium
+TXN0088,2024-03-08,Running Shoes,Sports,3,134.39,383.0,Premium
+TXN0089,2024-03-07,Desk Chair,Furniture,2,184.72,369.44,Regular
+TXN0090,2024-03-25,Protein Powder,Health,3,53.05,159.14,New
+TXN0091,2024-01-30,Laptop,Electronics,1,1424.2,1424.2,New
+TXN0092,2024-02-18,Headphones,Electronics,3,150.71,452.13,Regular
+TXN0093,2024-03-12,Blender,Appliances,2,75.9,151.8,Regular
+TXN0094,2024-02-19,Running Shoes,Sports,2,136.01,272.02,Regular
+TXN0095,2024-03-03,Running Shoes,Sports,2,127.72,255.43,New
+TXN0096,2024-03-15,Blender,Appliances,3,81.22,243.67,Regular
+TXN0097,2024-01-21,Yoga Mat,Sports,1,31.28,31.28,Premium
+TXN0098,2024-03-22,Vitamins,Health,2,23.4,46.81,New
+TXN0099,2024-01-21,Desk Chair,Furniture,2,197.44,394.89,New
+TXN0100,2024-01-15,Yoga Mat,Sports,3,28.06,84.17,New
+TXN0101,2024-02-03,Running Shoes,Sports,2,124.11,248.23,Regular
+TXN0102,2024-02-23,Vitamins,Health,2,26.97,51.24,Premium
+TXN0103,2024-03-22,Vitamins,Health,3,26.18,78.53,New
+TXN0104,2024-03-13,Laptop,Electronics,3,1264.51,3793.53,New
+TXN0105,2024-02-02,Protein Powder,Health,2,54.24,108.48,Regular
+TXN0106,2024-01-10,Protein Powder,Health,3,48.82,146.45,Regular
+TXN0107,2024-01-28,Desk Chair,Furniture,3,216.52,649.55,Regular
+TXN0108,2024-01-21,Protein Powder,Health,1,50.3,50.3,New
+TXN0109,2024-01-17,Coffee Maker,Appliances,3,92.05,276.14,Regular
+TXN0110,2024-01-29,Coffee Maker,Appliances,2,89.01,178.02,New
+TXN0111,2024-01-10,Coffee Maker,Appliances,2,92.05,184.1,Regular
+TXN0112,2024-01-13,Smartphone,Electronics,2,614.43,1228.85,Regular
+TXN0113,2024-01-25,Laptop,Electronics,3,1355.09,3862.0,Premium
+TXN0114,2024-01-10,Smartphone,Electronics,1,557.24,557.24,Premium
+TXN0115,2024-01-25,Desk Chair,Furniture,1,214.19,214.19,Premium
+TXN0116,2024-02-22,Headphones,Electronics,1,159.0,159.0,Premium
+TXN0117,2024-03-01,Blender,Appliances,1,82.78,82.78,Premium
+TXN0118,2024-03-25,Desk Chair,Furniture,1,195.15,195.15,New
+TXN0119,2024-01-29,Smartphone,Electronics,2,647.6,1295.2,New
+TXN0120,2024-02-26,Smartphone,Electronics,2,646.34,1292.67,Regular
+TXN0121,2024-02-13,Laptop,Electronics,3,1271.61,3814.82,Regular
+TXN0122,2024-03-14,Yoga Mat,Sports,1,27.0,27.0,Regular
+TXN0123,2024-03-31,Headphones,Electronics,1,160.46,160.46,Regular
+TXN0124,2024-03-21,Yoga Mat,Sports,1,31.92,31.92,Premium
+TXN0125,2024-02-21,Blender,Appliances,2,80.25,160.5,New
+TXN0126,2024-03-04,Desk Chair,Furniture,1,201.0,201.0,New
+TXN0127,2024-02-18,Laptop,Electronics,1,1376.23,1376.23,Premium
+TXN0128,2024-03-28,Laptop,Electronics,3,1312.71,3938.14,Regular
+TXN0129,2024-02-13,Protein Powder,Health,3,54.54,163.61,New
+TXN0130,2024-03-08,Blender,Appliances,1,82.43,82.43,Premium
+TXN0131,2024-01-12,Desk Chair,Furniture,3,216.87,618.09,Premium
+TXN0132,2024-01-02,Coffee Maker,Appliances,2,90.37,180.74,Regular
+TXN0133,2024-01-11,Coffee Maker,Appliances,1,84.47,84.47,Premium
+TXN0134,2024-03-15,Yoga Mat,Sports,1,30.79,30.79,Regular
+TXN0135,2024-01-25,Protein Powder,Health,1,52.62,52.62,New
+TXN0136,2024-03-11,Protein Powder,Health,1,54.51,54.51,Premium
+TXN0137,2024-02-25,Running Shoes,Sports,2,134.71,269.41,Regular
+TXN0138,2024-02-20,Yoga Mat,Sports,1,29.98,29.98,Regular
+TXN0139,2024-02-19,Yoga Mat,Sports,3,30.05,85.63,Premium
+TXN0140,2024-02-03,Laptop,Electronics,3,1331.25,3794.07,Premium
+TXN0141,2024-02-29,Headphones,Electronics,2,136.61,259.55,Premium
+TXN0142,2024-01-01,Headphones,Electronics,1,154.34,154.34,Premium
+TXN0143,2024-03-23,Headphones,Electronics,2,161.54,323.09,New
+TXN0144,2024-02-20,Desk Chair,Furniture,2,208.78,396.68,Premium
+TXN0145,2024-03-10,Desk Chair,Furniture,3,187.59,534.63,Premium
+TXN0146,2024-03-24,Coffee Maker,Appliances,3,91.14,259.76,Premium
+TXN0147,2024-03-07,Headphones,Electronics,3,151.53,454.59,New
+TXN0148,2024-01-20,Blender,Appliances,3,81.16,243.48,Regular
+TXN0149,2024-03-20,Smartphone,Electronics,2,585.44,1170.88,New
+TXN0150,2024-02-07,Smartphone,Electronics,3,549.77,1566.84,Premium
+TXN0151,2024-03-22,Smartphone,Electronics,3,614.26,1842.77,Regular
+TXN0152,2024-02-27,Coffee Maker,Appliances,1,92.52,92.52,Regular
+TXN0153,2024-03-28,Protein Powder,Health,1,45.7,45.7,Premium
+TXN0154,2024-01-15,Yoga Mat,Sports,2,31.36,62.72,Regular
+TXN0155,2024-01-22,Coffee Maker,Appliances,2,84.64,169.29,Regular
+TXN0156,2024-02-16,Running Shoes,Sports,1,135.83,135.83,Premium
+TXN0157,2024-02-02,Protein Powder,Health,3,53.28,159.83,New
+TXN0158,2024-03-27,Running Shoes,Sports,3,118.4,355.21,New
+TXN0159,2024-03-21,Running Shoes,Sports,3,141.41,424.24,New
+TXN0160,2024-03-12,Desk Chair,Furniture,3,203.65,610.96,Regular
+TXN0161,2024-01-28,Running Shoes,Sports,3,137.03,411.09,New
+TXN0162,2024-02-10,Desk Chair,Furniture,2,217.53,435.06,New
+TXN0163,2024-01-29,Yoga Mat,Sports,2,32.5,65.01,Regular
+TXN0164,2024-01-04,Blender,Appliances,2,75.0,150.0,Regular
+TXN0165,2024-01-27,Headphones,Electronics,3,146.23,438.7,New
+TXN0166,2024-01-03,Protein Powder,Health,2,51.62,103.24,Regular
+TXN0167,2024-02-24,Blender,Appliances,2,83.66,167.31,New
+TXN0168,2024-03-12,Headphones,Electronics,3,154.49,463.48,Regular
+TXN0169,2024-03-25,Smartphone,Electronics,2,566.99,1133.98,Regular
+TXN0170,2024-02-25,Blender,Appliances,3,82.72,248.16,Regular
+TXN0171,2024-03-05,Desk Chair,Furniture,3,201.21,603.62,New
+TXN0172,2024-01-18,Smartphone,Electronics,3,602.25,1806.76,New
+TXN0173,2024-03-21,Protein Powder,Health,1,50.76,50.76,Premium
+TXN0174,2024-03-04,Running Shoes,Sports,3,137.28,411.84,Regular
+TXN0175,2024-03-18,Headphones,Electronics,3,146.81,440.42,New
+TXN0176,2024-01-06,Headphones,Electronics,2,158.66,317.32,New
+TXN0177,2024-01-06,Running Shoes,Sports,3,133.82,401.47,Regular
+TXN0178,2024-02-22,Blender,Appliances,1,76.13,76.13,New
+TXN0179,2024-01-20,Coffee Maker,Appliances,1,82.53,82.53,New
+TXN0180,2024-03-20,Headphones,Electronics,1,163.03,163.03,New
+TXN0181,2024-03-28,Yoga Mat,Sports,3,28.99,82.63,Premium
+TXN0182,2024-03-21,Headphones,Electronics,3,138.18,414.54,Regular
+TXN0183,2024-02-27,Smartphone,Electronics,1,553.94,553.94,New
+TXN0184,2024-03-28,Blender,Appliances,3,83.65,250.94,Regular
+TXN0185,2024-02-17,Running Shoes,Sports,1,133.6,133.6,Regular
+TXN0186,2024-03-18,Headphones,Electronics,1,139.12,139.12,Premium
+TXN0187,2024-01-30,Coffee Maker,Appliances,1,85.11,85.11,New
+TXN0188,2024-03-31,Yoga Mat,Sports,3,32.15,96.45,Regular
+TXN0189,2024-02-12,Coffee Maker,Appliances,1,94.53,94.53,New
+TXN0190,2024-01-09,Protein Powder,Health,3,49.47,140.98,Premium
+TXN0191,2024-03-05,Laptop,Electronics,3,1186.52,3559.57,New
+TXN0192,2024-03-17,Desk Chair,Furniture,3,207.97,623.9,New
+TXN0193,2024-03-10,Blender,Appliances,1,82.44,82.44,Premium
+TXN0194,2024-03-10,Running Shoes,Sports,1,138.38,138.38,Regular
+TXN0195,2024-02-14,Smartphone,Electronics,1,598.18,598.18,Premium
+TXN0196,2024-01-23,Headphones,Electronics,3,157.93,473.8,Regular
+TXN0197,2024-01-05,Smartphone,Electronics,3,597.47,1702.79,Premium
+TXN0198,2024-01-04,Coffee Maker,Appliances,2,85.96,171.92,New
+TXN0199,2024-01-19,Smartphone,Electronics,1,649.47,649.47,Regular
+TXN0200,2024-01-02,Desk Chair,Furniture,3,193.23,550.71,Premium

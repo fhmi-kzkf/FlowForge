@@ -1,0 +1,501 @@
+SensorID,Timestamp,SensorType,Location,Value,Unit,Status
+SENSOR_0001,2024-01-25 14:19:00,Motion,Parking Lot,1.0,boolean,Maintenance
+SENSOR_0002,2024-01-15 20:34:00,Temperature,Parking Lot,21.74,°C,Maintenance
+SENSOR_0003,2024-01-17 01:37:00,Temperature,Warehouse,18.3,°C,Active
+SENSOR_0004,2024-01-13 14:21:00,Pressure,Building A,1011.9,hPa,Maintenance
+SENSOR_0005,2024-01-25 13:09:00,Pressure,Warehouse,1022.0,hPa,Active
+SENSOR_0006,2024-01-03 01:17:00,Light,Building B,965.0,lux,Active
+SENSOR_0007,2024-01-15 10:23:00,Temperature,Parking Lot,23.86,°C,Active
+SENSOR_0008,2024-01-27 08:56:00,Humidity,Parking Lot,48.9,%,Active
+SENSOR_0009,2024-01-10 04:20:00,Light,Warehouse,587.0,lux,Active
+SENSOR_0010,2024-01-26 10:59:00,Light,Building A,435.0,lux,Active
+SENSOR_0011,2024-01-22 13:41:00,Motion,Warehouse,1.0,boolean,Active
+SENSOR_0012,2024-01-24 21:49:00,Light,Building A,621.0,lux,Active
+SENSOR_0013,2024-01-28 01:06:00,Temperature,Warehouse,21.12,°C,Maintenance
+SENSOR_0014,2024-01-25 00:09:00,Pressure,Building A,1012.9,hPa,Maintenance
+SENSOR_0015,2024-01-01 07:22:00,Temperature,Building B,20.81,°C,Active
+SENSOR_0016,2024-01-08 13:21:00,Pressure,Parking Lot,1023.1,hPa,Active
+SENSOR_0017,2024-01-11 08:04:00,Pressure,Building C,1020.5,hPa,Maintenance
+SENSOR_0018,2024-01-22 23:03:00,Light,Warehouse,27.0,lux,Active
+SENSOR_0019,2024-01-28 11:09:00,Motion,Building A,0.0,boolean,Active
+SENSOR_0020,2024-01-15 08:47:00,Humidity,Building A,76.5,%,Active
+SENSOR_0021,2024-01-24 06:33:00,Pressure,Warehouse,1015.8,hPa,Active
+SENSOR_0022,2024-01-08 15:29:00,Pressure,Building C,1016.6,hPa,Active
+SENSOR_0023,2024-01-21 21:31:00,Motion,Warehouse,0.0,boolean,Active
+SENSOR_0024,2024-01-21 08:58:00,Pressure,Building B,1024.0,hPa,Maintenance
+SENSOR_0025,2024-01-15 18:41:00,Humidity,Building B,66.5,%,Active
+SENSOR_0026,2024-01-10 05:24:00,Light,Building A,271.0,lux,Active
+SENSOR_0027,2024-01-07 06:23:00,Pressure,Building C,1013.8,hPa,Maintenance
+SENSOR_0028,2024-01-30 00:48:00,Temperature,Warehouse,23.06,°C,Active
+SENSOR_0029,2024-01-12 15:48:00,Motion,Parking Lot,0.0,boolean,Active
+SENSOR_0030,2024-01-08 13:22:00,Temperature,Building A,24.1,°C,Active
+SENSOR_0031,2024-01-29 05:23:00,Temperature,Building C,24.5,°C,Active
+SENSOR_0032,2024-01-05 18:56:00,Humidity,Building C,78.7,%,Active
+SENSOR_0033,2024-01-11 09:02:00,Humidity,Warehouse,51.8,%,Active
+SENSOR_0034,2024-01-10 22:22:00,Temperature,Building B,19.69,°C,Active
+SENSOR_0035,2024-01-12 15:27:00,Light,Building A,400.0,lux,Active
+SENSOR_0036,2024-01-28 20:27:00,Pressure,Building A,1021.8,hPa,Active
+SENSOR_0037,2024-01-09 11:33:00,Pressure,Warehouse,1024.8,hPa,Active
+SENSOR_0038,2024-01-07 13:28:00,Motion,Warehouse,1.0,boolean,Active
+SENSOR_0039,2024-01-14 20:09:00,Temperature,Parking Lot,22.09,°C,Active
+SENSOR_0040,2024-01-18 11:12:00,Motion,Warehouse,0.0,boolean,Active
+SENSOR_0041,2024-01-12 23:05:00,Pressure,Parking Lot,1019.0,hPa,Active
+SENSOR_0042,2024-01-23 02:23:00,Light,Parking Lot,549.0,lux,Maintenance
+SENSOR_0043,2024-01-08 21:15:00,Temperature,Building A,25.24,°C,Active
+SENSOR_0044,2024-01-19 01:10:00,Humidity,Warehouse,47.2,%,Active
+SENSOR_0045,2024-01-11 10:49:00,Pressure,Parking Lot,1023.5,hPa,Maintenance
+SENSOR_0046,2024-01-17 13:45:00,Temperature,Building A,24.73,°C,Active
+SENSOR_0047,2024-01-19 18:46:00,Motion,Building B,0.0,boolean,Active
+SENSOR_0048,2024-01-19 00:42:00,Humidity,Parking Lot,34.4,%,Active
+SENSOR_0049,2024-01-18 15:56:00,Light,Parking Lot,993.0,lux,Active
+SENSOR_0050,2024-01-12 05:43:00,Temperature,Parking Lot,18.68,°C,Active
+SENSOR_0051,2024-01-25 05:12:00,Light,Building B,237.0,lux,Active
+SENSOR_0052,2024-01-28 20:57:00,Temperature,Building C,22.34,°C,Active
+SENSOR_0053,2024-01-17 04:38:00,Humidity,Warehouse,53.1,%,Maintenance
+SENSOR_0054,2024-01-27 15:30:00,Light,Building A,122.0,lux,Active
+SENSOR_0055,2024-01-13 15:02:00,Humidity,Warehouse,61.8,%,Maintenance
+SENSOR_0056,2024-01-09 01:05:00,Temperature,Parking Lot,23.18,°C,Active
+SENSOR_0057,2024-01-06 17:32:00,Temperature,Building B,18.76,°C,Maintenance
+SENSOR_0058,2024-01-14 10:22:00,Light,Building A,447.0,lux,Active
+SENSOR_0059,2024-01-08 23:36:00,Pressure,Building C,1020.5,hPa,Active
+SENSOR_0060,2024-01-02 12:37:00,Motion,Warehouse,0.0,boolean,Active
+SENSOR_0061,2024-01-01 23:09:00,Temperature,Building A,20.99,°C,Active
+SENSOR_0062,2024-01-15 21:24:00,Temperature,Warehouse,20.65,°C,Maintenance
+SENSOR_0063,2024-01-11 04:28:00,Humidity,Warehouse,57.8,%,Active
+SENSOR_0064,2024-01-01 02:09:00,Pressure,Parking Lot,1012.7,hPa,Maintenance
+SENSOR_0065,2024-01-02 17:29:00,Temperature,Building C,20.58,°C,Active
+SENSOR_0066,2024-01-15 09:25:00,Light,Warehouse,527.0,lux,Maintenance
+SENSOR_0067,2024-01-24 08:32:00,Humidity,Warehouse,72.6,%,Maintenance
+SENSOR_0068,2024-01-02 10:37:00,Motion,Parking Lot,0.0,boolean,Active
+SENSOR_0069,2024-01-15 13:05:00,Temperature,Building B,22.8,°C,Maintenance
+SENSOR_0070,2024-01-25 09:49:00,Humidity,Building A,72.7,%,Active
+SENSOR_0071,2024-01-21 23:40:00,Temperature,Parking Lot,25.79,°C,Active
+SENSOR_0072,2024-01-15 03:11:00,Humidity,Building A,30.1,%,Maintenance
+SENSOR_0073,2024-01-17 17:43:00,Light,Warehouse,474.0,lux,Active
+SENSOR_0074,2024-01-30 10:08:00,Light,Building B,736.0,lux,Active
+SENSOR_0075,2024-01-02 18:16:00,Pressure,Building A,1018.5,hPa,Active
+SENSOR_0076,2024-01-18 19:30:00,Light,Building A,286.0,lux,Active
+SENSOR_0077,2024-01-14 20:30:00,Humidity,Building B,30.1,%,Active
+SENSOR_0078,2024-01-28 04:08:00,Humidity,Parking Lot,51.0,%,Active
+SENSOR_0079,2024-01-12 20:56:00,Pressure,Building B,1011.8,hPa,Active
+SENSOR_0080,2024-01-24 21:35:00,Humidity,Building C,33.5,%,Active
+SENSOR_0081,2024-01-02 00:41:00,Pressure,Building A,1011.1,hPa,Active
+SENSOR_0082,2024-01-03 21:15:00,Light,Warehouse,987.0,lux,Maintenance
+SENSOR_0083,2024-01-22 19:54:00,Temperature,Building C,21.4,°C,Active
+SENSOR_0084,2024-01-30 22:46:00,Humidity,Building C,53.4,%,Active
+SENSOR_0085,2024-01-02 08:30:00,Motion,Building C,0.0,boolean,Maintenance
+SENSOR_0086,2024-01-18 14:15:00,Temperature,Parking Lot,21.92,°C,Active
+SENSOR_0087,2024-01-19 08:45:00,Temperature,Building A,22.78,°C,Active
+SENSOR_0088,2024-01-17 14:25:00,Pressure,Building B,1016.8,hPa,Active
+SENSOR_0089,2024-01-02 23:53:00,Pressure,Building B,1025.0,hPa,Active
+SENSOR_0090,2024-01-01 10:15:00,Light,Parking Lot,90.0,lux,Active
+SENSOR_0091,2024-01-08 09:57:00,Light,Parking Lot,212.0,lux,Active
+SENSOR_0092,2024-01-10 19:40:00,Pressure,Warehouse,1013.4,hPa,Active
+SENSOR_0093,2024-01-30 18:23:00,Motion,Building C,1.0,boolean,Active
+SENSOR_0094,2024-01-15 00:13:00,Humidity,Building C,68.0,%,Maintenance
+SENSOR_0095,2024-01-02 23:46:00,Pressure,Building C,1010.0,hPa,Active
+SENSOR_0096,2024-01-23 03:40:00,Humidity,Building C,47.3,%,Maintenance
+SENSOR_0097,2024-01-19 11:47:00,Temperature,Building A,18.8,°C,Active
+SENSOR_0098,2024-01-08 06:35:00,Pressure,Building C,1011.3,hPa,Active
+SENSOR_0099,2024-01-13 22:01:00,Motion,Building C,0.0,boolean,Maintenance
+SENSOR_0100,2024-01-01 02:25:00,Temperature,Building A,18.22,°C,Active
+SENSOR_0101,2024-01-14 21:09:00,Humidity,Parking Lot,65.3,%,Maintenance
+SENSOR_0102,2024-01-26 04:57:00,Humidity,Parking Lot,56.6,%,Active
+SENSOR_0103,2024-01-09 01:01:00,Pressure,Parking Lot,1013.0,hPa,Active
+SENSOR_0104,2024-01-21 13:39:00,Light,Warehouse,432.0,lux,Active
+SENSOR_0105,2024-01-23 08:46:00,Light,Building B,530.0,lux,Maintenance
+SENSOR_0106,2024-01-23 18:57:00,Motion,Parking Lot,1.0,boolean,Maintenance
+SENSOR_0107,2024-01-15 15:59:00,Light,Building B,20.0,lux,Active
+SENSOR_0108,2024-01-15 10:42:00,Temperature,Warehouse,20.53,°C,Maintenance
+SENSOR_0109,2024-01-23 23:38:00,Humidity,Building A,67.4,%,Active
+SENSOR_0110,2024-01-25 19:40:00,Motion,Building A,0.0,boolean,Active
+SENSOR_0111,2024-01-21 02:25:00,Pressure,Building C,1019.0,hPa,Active
+SENSOR_0112,2024-01-10 13:50:00,Temperature,Building C,24.21,°C,Maintenance
+SENSOR_0113,2024-01-22 02:05:00,Motion,Parking Lot,0.0,boolean,Maintenance
+SENSOR_0114,2024-01-01 11:48:00,Humidity,Building C,61.4,%,Active
+SENSOR_0115,2024-01-15 12:26:00,Light,Parking Lot,687.0,lux,Active
+SENSOR_0116,2024-01-25 17:24:00,Humidity,Building B,38.3,%,Active
+SENSOR_0117,2024-01-29 14:19:00,Pressure,Parking Lot,1018.4,hPa,Active
+SENSOR_0118,2024-01-25 22:05:00,Motion,Warehouse,0.0,boolean,Active
+SENSOR_0119,2024-01-23 21:10:00,Motion,Parking Lot,1.0,boolean,Active
+SENSOR_0120,2024-01-11 06:09:00,Temperature,Building A,23.0,°C,Active
+SENSOR_0121,2024-01-16 23:10:00,Pressure,Warehouse,1024.1,hPa,Maintenance
+SENSOR_0122,2024-01-08 07:11:00,Temperature,Parking Lot,22.96,°C,Active
+SENSOR_0123,2024-01-03 17:07:00,Light,Building A,846.0,lux,Active
+SENSOR_0124,2024-01-03 19:46:00,Light,Building B,146.0,lux,Active
+SENSOR_0125,2024-01-29 02:44:00,Light,Building B,128.0,lux,Maintenance
+SENSOR_0126,2024-01-27 19:23:00,Light,Building C,58.0,lux,Maintenance
+SENSOR_0127,2024-01-28 11:15:00,Pressure,Parking Lot,1016.7,hPa,Active
+SENSOR_0128,2024-01-07 09:12:00,Temperature,Building C,19.13,°C,Maintenance
+SENSOR_0129,2024-01-21 16:06:00,Temperature,Building A,20.61,°C,Active
+SENSOR_0130,2024-01-02 19:26:00,Pressure,Warehouse,1011.1,hPa,Active
+SENSOR_0131,2024-01-10 02:45:00,Temperature,Building C,23.15,°C,Active
+SENSOR_0132,2024-01-14 00:09:00,Temperature,Building C,24.48,°C,Maintenance
+SENSOR_0133,2024-01-08 22:33:00,Temperature,Building B,23.87,°C,Maintenance
+SENSOR_0134,2024-01-24 01:44:00,Light,Parking Lot,522.0,lux,Active
+SENSOR_0135,2024-01-14 17:14:00,Motion,Building A,0.0,boolean,Maintenance
+SENSOR_0136,2024-01-06 04:52:00,Motion,Building B,0.0,boolean,Active
+SENSOR_0137,2024-01-30 20:48:00,Light,Building C,907.0,lux,Active
+SENSOR_0138,2024-01-28 19:12:00,Light,Building C,640.0,lux,Maintenance
+SENSOR_0139,2024-01-10 00:35:00,Temperature,Building B,22.76,°C,Active
+SENSOR_0140,2024-01-25 04:17:00,Temperature,Warehouse,18.52,°C,Active
+SENSOR_0141,2024-01-14 15:29:00,Light,Parking Lot,17.0,lux,Active
+SENSOR_0142,2024-01-06 03:54:00,Humidity,Parking Lot,48.5,%,Active
+SENSOR_0143,2024-01-14 10:30:00,Motion,Building B,1.0,boolean,Maintenance
+SENSOR_0144,2024-01-29 09:12:00,Temperature,Building C,20.13,°C,Active
+SENSOR_0145,2024-01-30 21:29:00,Motion,Parking Lot,1.0,boolean,Maintenance
+SENSOR_0146,2024-01-23 19:28:00,Pressure,Building C,1020.9,hPa,Active
+SENSOR_0147,2024-01-02 19:07:00,Pressure,Building C,1014.5,hPa,Active
+SENSOR_0148,2024-01-16 01:12:00,Pressure,Warehouse,1023.9,hPa,Active
+SENSOR_0149,2024-01-05 12:56:00,Pressure,Warehouse,1010.6,hPa,Maintenance
+SENSOR_0150,2024-01-01 16:42:00,Motion,Building A,1.0,boolean,Active
+SENSOR_0151,2024-01-16 06:07:00,Pressure,Building A,1021.8,hPa,Active
+SENSOR_0152,2024-01-28 08:02:00,Temperature,Parking Lot,25.62,°C,Active
+SENSOR_0153,2024-01-06 12:55:00,Humidity,Building A,70.6,%,Active
+SENSOR_0154,2024-01-05 04:51:00,Motion,Building B,1.0,boolean,Maintenance
+SENSOR_0155,2024-01-28 08:06:00,Temperature,Building C,22.48,°C,Active
+SENSOR_0156,2024-01-16 06:45:00,Pressure,Parking Lot,1014.8,hPa,Active
+SENSOR_0157,2024-01-30 05:14:00,Light,Parking Lot,189.0,lux,Active
+SENSOR_0158,2024-01-18 22:24:00,Motion,Building B,0.0,boolean,Active
+SENSOR_0159,2024-01-03 21:51:00,Humidity,Building B,56.3,%,Active
+SENSOR_0160,2024-01-22 20:04:00,Humidity,Building A,34.0,%,Active
+SENSOR_0161,2024-01-06 06:41:00,Humidity,Building C,51.2,%,Active
+SENSOR_0162,2024-01-11 06:16:00,Pressure,Building B,1022.1,hPa,Maintenance
+SENSOR_0163,2024-01-02 15:22:00,Motion,Building B,1.0,boolean,Maintenance
+SENSOR_0164,2024-01-02 08:58:00,Pressure,Parking Lot,1014.4,hPa,Active
+SENSOR_0165,2024-01-11 09:11:00,Pressure,Parking Lot,1012.7,hPa,Active
+SENSOR_0166,2024-01-01 06:25:00,Motion,Building B,1.0,boolean,Maintenance
+SENSOR_0167,2024-01-13 15:28:00,Light,Building B,217.0,lux,Active
+SENSOR_0168,2024-01-09 10:52:00,Temperature,Parking Lot,25.56,°C,Active
+SENSOR_0169,2024-01-01 03:53:00,Motion,Warehouse,1.0,boolean,Maintenance
+SENSOR_0170,2024-01-08 13:07:00,Humidity,Building C,58.9,%,Active
+SENSOR_0171,2024-01-30 21:04:00,Humidity,Building C,53.7,%,Active
+SENSOR_0172,2024-01-06 18:46:00,Light,Building B,834.0,lux,Active
+SENSOR_0173,2024-01-05 22:00:00,Humidity,Building B,35.5,%,Maintenance
+SENSOR_0174,2024-01-29 05:59:00,Temperature,Parking Lot,20.29,°C,Active
+SENSOR_0175,2024-01-05 23:00:00,Temperature,Building A,24.06,°C,Active
+SENSOR_0176,2024-01-28 13:20:00,Temperature,Warehouse,20.36,°C,Active
+SENSOR_0177,2024-01-17 05:32:00,Humidity,Building B,33.6,%,Active
+SENSOR_0178,2024-01-17 11:52:00,Light,Building A,612.0,lux,Active
+SENSOR_0179,2024-01-13 04:40:00,Temperature,Building B,18.66,°C,Active
+SENSOR_0180,2024-01-18 07:08:00,Temperature,Parking Lot,21.07,°C,Maintenance
+SENSOR_0181,2024-01-24 16:12:00,Light,Warehouse,119.0,lux,Active
+SENSOR_0182,2024-01-17 09:33:00,Temperature,Parking Lot,19.14,°C,Maintenance
+SENSOR_0183,2024-01-01 07:00:00,Light,Building A,445.0,lux,Active
+SENSOR_0184,2024-01-11 08:49:00,Motion,Building B,0.0,boolean,Maintenance
+SENSOR_0185,2024-01-14 01:53:00,Light,Building B,30.0,lux,Maintenance
+SENSOR_0186,2024-01-12 13:54:00,Temperature,Building A,22.21,°C,Active
+SENSOR_0187,2024-01-10 01:03:00,Motion,Warehouse,1.0,boolean,Maintenance
+SENSOR_0188,2024-01-30 07:06:00,Light,Building C,411.0,lux,Maintenance
+SENSOR_0189,2024-01-16 13:21:00,Pressure,Building C,1019.6,hPa,Active
+SENSOR_0190,2024-01-28 16:02:00,Light,Parking Lot,136.0,lux,Active
+SENSOR_0191,2024-01-04 02:16:00,Motion,Building A,1.0,boolean,Active
+SENSOR_0192,2024-01-05 11:03:00,Temperature,Building B,25.05,°C,Active
+SENSOR_0193,2024-01-23 23:33:00,Humidity,Building B,67.6,%,Active
+SENSOR_0194,2024-01-01 11:02:00,Light,Building C,145.0,lux,Active
+SENSOR_0195,2024-01-02 08:03:00,Motion,Building B,1.0,boolean,Active
+SENSOR_0196,2024-01-20 21:11:00,Motion,Warehouse,0.0,boolean,Maintenance
+SENSOR_0197,2024-01-11 23:52:00,Humidity,Parking Lot,73.7,%,Maintenance
+SENSOR_0198,2024-01-30 04:16:00,Light,Building A,115.0,lux,Active
+SENSOR_0199,2024-01-17 03:51:00,Motion,Building A,0.0,boolean,Active
+SENSOR_0200,2024-01-24 07:29:00,Temperature,Parking Lot,18.58,°C,Active
+SENSOR_0201,2024-01-21 23:42:00,Motion,Building A,1.0,boolean,Active
+SENSOR_0202,2024-01-07 06:25:00,Pressure,Building C,1011.9,hPa,Active
+SENSOR_0203,2024-01-23 11:21:00,Temperature,Building B,22.72,°C,Active
+SENSOR_0204,2024-01-14 17:16:00,Motion,Building C,1.0,boolean,Active
+SENSOR_0205,2024-01-05 21:26:00,Pressure,Warehouse,1017.1,hPa,Active
+SENSOR_0206,2024-01-08 19:43:00,Temperature,Building C,18.64,°C,Active
+SENSOR_0207,2024-01-08 16:21:00,Light,Building B,633.0,lux,Active
+SENSOR_0208,2024-01-26 07:56:00,Light,Building A,898.0,lux,Active
+SENSOR_0209,2024-01-02 09:53:00,Motion,Building A,1.0,boolean,Active
+SENSOR_0210,2024-01-04 03:04:00,Light,Warehouse,491.0,lux,Active
+SENSOR_0211,2024-01-24 03:25:00,Motion,Warehouse,1.0,boolean,Active
+SENSOR_0212,2024-01-01 14:55:00,Pressure,Parking Lot,1010.2,hPa,Maintenance
+SENSOR_0213,2024-01-26 08:03:00,Humidity,Building C,38.2,%,Active
+SENSOR_0214,2024-01-07 12:10:00,Temperature,Building C,23.52,°C,Active
+SENSOR_0215,2024-01-03 16:39:00,Light,Parking Lot,955.0,lux,Active
+SENSOR_0216,2024-01-25 10:10:00,Motion,Parking Lot,0.0,boolean,Maintenance
+SENSOR_0217,2024-01-13 23:47:00,Motion,Building A,0.0,boolean,Active
+SENSOR_0218,2024-01-18 11:21:00,Humidity,Warehouse,31.1,%,Active
+SENSOR_0219,2024-01-27 14:31:00,Motion,Warehouse,1.0,boolean,Active
+SENSOR_0220,2024-01-04 05:38:00,Humidity,Building C,35.0,%,Active
+SENSOR_0221,2024-01-25 00:18:00,Humidity,Warehouse,74.0,%,Maintenance
+SENSOR_0222,2024-01-13 12:17:00,Light,Building C,295.0,lux,Active
+SENSOR_0223,2024-01-04 11:13:00,Motion,Parking Lot,0.0,boolean,Active
+SENSOR_0224,2024-01-24 00:12:00,Temperature,Building C,19.55,°C,Active
+SENSOR_0225,2024-01-05 09:59:00,Humidity,Building C,53.5,%,Active
+SENSOR_0226,2024-01-10 22:07:00,Humidity,Building C,35.4,%,Active
+SENSOR_0227,2024-01-14 18:56:00,Light,Building B,906.0,lux,Active
+SENSOR_0228,2024-01-21 14:16:00,Humidity,Building B,78.4,%,Active
+SENSOR_0229,2024-01-10 22:31:00,Pressure,Building B,1012.6,hPa,Active
+SENSOR_0230,2024-01-13 23:26:00,Motion,Building A,0.0,boolean,Active
+SENSOR_0231,2024-01-13 02:23:00,Light,Parking Lot,12.0,lux,Maintenance
+SENSOR_0232,2024-01-20 07:25:00,Pressure,Building B,1024.1,hPa,Active
+SENSOR_0233,2024-01-23 08:04:00,Pressure,Building A,1012.7,hPa,Active
+SENSOR_0234,2024-01-26 15:44:00,Humidity,Building A,76.6,%,Maintenance
+SENSOR_0235,2024-01-08 08:38:00,Motion,Parking Lot,0.0,boolean,Active
+SENSOR_0236,2024-01-08 10:15:00,Light,Building A,867.0,lux,Maintenance
+SENSOR_0237,2024-01-23 07:46:00,Temperature,Warehouse,19.24,°C,Active
+SENSOR_0238,2024-01-12 18:41:00,Humidity,Building B,48.1,%,Active
+SENSOR_0239,2024-01-10 21:03:00,Motion,Warehouse,0.0,boolean,Active
+SENSOR_0240,2024-01-09 05:54:00,Pressure,Parking Lot,1014.7,hPa,Active
+SENSOR_0241,2024-01-29 10:37:00,Light,Parking Lot,462.0,lux,Maintenance
+SENSOR_0242,2024-01-25 16:26:00,Pressure,Building C,1020.3,hPa,Active
+SENSOR_0243,2024-01-08 05:24:00,Motion,Building B,1.0,boolean,Active
+SENSOR_0244,2024-01-30 09:56:00,Humidity,Building B,65.9,%,Active
+SENSOR_0245,2024-01-21 21:27:00,Pressure,Warehouse,1019.1,hPa,Active
+SENSOR_0246,2024-01-30 18:50:00,Temperature,Building A,23.89,°C,Active
+SENSOR_0247,2024-01-21 16:03:00,Motion,Building C,1.0,boolean,Active
+SENSOR_0248,2024-01-01 17:45:00,Light,Warehouse,742.0,lux,Maintenance
+SENSOR_0249,2024-01-04 00:12:00,Light,Parking Lot,982.0,lux,Maintenance
+SENSOR_0250,2024-01-17 11:38:00,Light,Building A,866.0,lux,Active
+SENSOR_0251,2024-01-23 06:01:00,Temperature,Building A,22.6,°C,Active
+SENSOR_0252,2024-01-10 04:35:00,Humidity,Building C,54.5,%,Active
+SENSOR_0253,2024-01-22 00:46:00,Motion,Warehouse,1.0,boolean,Active
+SENSOR_0254,2024-01-29 09:35:00,Light,Building B,622.0,lux,Active
+SENSOR_0255,2024-01-20 05:33:00,Pressure,Parking Lot,1021.6,hPa,Active
+SENSOR_0256,2024-01-03 15:00:00,Motion,Building C,1.0,boolean,Active
+SENSOR_0257,2024-01-11 06:14:00,Pressure,Warehouse,1013.8,hPa,Active
+SENSOR_0258,2024-01-03 21:07:00,Motion,Building C,1.0,boolean,Active
+SENSOR_0259,2024-01-09 02:09:00,Light,Building B,441.0,lux,Active
+SENSOR_0260,2024-01-09 23:28:00,Pressure,Warehouse,1017.5,hPa,Maintenance
+SENSOR_0261,2024-01-16 05:19:00,Humidity,Parking Lot,75.8,%,Maintenance
+SENSOR_0262,2024-01-07 20:55:00,Light,Building B,10.0,lux,Maintenance
+SENSOR_0263,2024-01-28 19:10:00,Pressure,Parking Lot,1023.2,hPa,Maintenance
+SENSOR_0264,2024-01-19 12:57:00,Humidity,Building C,62.4,%,Active
+SENSOR_0265,2024-01-29 06:55:00,Temperature,Building B,24.46,°C,Maintenance
+SENSOR_0266,2024-01-16 12:18:00,Temperature,Building A,20.33,°C,Active
+SENSOR_0267,2024-01-05 05:36:00,Light,Building B,709.0,lux,Maintenance
+SENSOR_0268,2024-01-08 05:46:00,Humidity,Parking Lot,51.0,%,Active
+SENSOR_0269,2024-01-03 08:57:00,Pressure,Parking Lot,1020.8,hPa,Active
+SENSOR_0270,2024-01-01 19:11:00,Pressure,Warehouse,1015.8,hPa,Active
+SENSOR_0271,2024-01-24 00:40:00,Light,Building C,906.0,lux,Active
+SENSOR_0272,2024-01-14 06:54:00,Pressure,Building B,1024.1,hPa,Active
+SENSOR_0273,2024-01-28 20:53:00,Temperature,Building C,20.83,°C,Active
+SENSOR_0274,2024-01-14 15:48:00,Motion,Building A,0.0,boolean,Active
+SENSOR_0275,2024-01-05 17:17:00,Motion,Warehouse,0.0,boolean,Active
+SENSOR_0276,2024-01-08 03:04:00,Pressure,Building C,1019.3,hPa,Active
+SENSOR_0277,2024-01-17 04:33:00,Humidity,Building A,37.9,%,Active
+SENSOR_0278,2024-01-12 14:44:00,Pressure,Building C,1020.8,hPa,Active
+SENSOR_0279,2024-01-22 11:37:00,Pressure,Parking Lot,1017.8,hPa,Maintenance
+SENSOR_0280,2024-01-07 04:53:00,Humidity,Parking Lot,76.9,%,Maintenance
+SENSOR_0281,2024-01-19 09:11:00,Pressure,Building C,1024.6,hPa,Active
+SENSOR_0282,2024-01-20 03:30:00,Light,Warehouse,594.0,lux,Active
+SENSOR_0283,2024-01-23 12:43:00,Temperature,Parking Lot,18.97,°C,Active
+SENSOR_0284,2024-01-17 03:36:00,Pressure,Building C,1010.0,hPa,Active
+SENSOR_0285,2024-01-22 13:22:00,Motion,Building B,0.0,boolean,Maintenance
+SENSOR_0286,2024-01-09 10:27:00,Light,Warehouse,475.0,lux,Active
+SENSOR_0287,2024-01-20 14:29:00,Temperature,Warehouse,19.27,°C,Maintenance
+SENSOR_0288,2024-01-26 19:03:00,Motion,Parking Lot,0.0,boolean,Maintenance
+SENSOR_0289,2024-01-14 07:06:00,Motion,Warehouse,1.0,boolean,Active
+SENSOR_0290,2024-01-01 22:13:00,Light,Building B,846.0,lux,Active
+SENSOR_0291,2024-01-26 15:42:00,Motion,Warehouse,0.0,boolean,Active
+SENSOR_0292,2024-01-24 09:20:00,Temperature,Building C,22.45,°C,Maintenance
+SENSOR_0293,2024-01-30 19:00:00,Temperature,Building A,19.59,°C,Active
+SENSOR_0294,2024-01-15 13:01:00,Humidity,Building C,73.9,%,Active
+SENSOR_0295,2024-01-09 21:18:00,Light,Parking Lot,470.0,lux,Active
+SENSOR_0296,2024-01-02 04:08:00,Light,Building C,571.0,lux,Active
+SENSOR_0297,2024-01-24 05:37:00,Humidity,Building A,32.5,%,Active
+SENSOR_0298,2024-01-22 12:33:00,Light,Parking Lot,800.0,lux,Active
+SENSOR_0299,2024-01-15 01:21:00,Motion,Warehouse,0.0,boolean,Active
+SENSOR_0300,2024-01-21 10:09:00,Temperature,Building A,23.08,°C,Active
+SENSOR_0301,2024-01-18 05:06:00,Temperature,Building B,23.49,°C,Active
+SENSOR_0302,2024-01-16 08:23:00,Pressure,Parking Lot,1012.8,hPa,Active
+SENSOR_0303,2024-01-12 17:56:00,Pressure,Building A,1019.5,hPa,Active
+SENSOR_0304,2024-01-13 17:44:00,Light,Warehouse,812.0,lux,Maintenance
+SENSOR_0305,2024-01-23 16:52:00,Light,Parking Lot,952.0,lux,Maintenance
+SENSOR_0306,2024-01-05 14:29:00,Light,Building A,225.0,lux,Maintenance
+SENSOR_0307,2024-01-23 16:42:00,Motion,Warehouse,1.0,boolean,Maintenance
+SENSOR_0308,2024-01-28 08:14:00,Motion,Parking Lot,1.0,boolean,Active
+SENSOR_0309,2024-01-25 09:33:00,Pressure,Building B,1013.3,hPa,Maintenance
+SENSOR_0310,2024-01-29 08:16:00,Pressure,Parking Lot,1015.3,hPa,Maintenance
+SENSOR_0311,2024-01-08 04:51:00,Temperature,Building A,20.0,°C,Active
+SENSOR_0312,2024-01-26 03:56:00,Temperature,Warehouse,20.04,°C,Active
+SENSOR_0313,2024-01-06 18:47:00,Temperature,Building B,19.09,°C,Active
+SENSOR_0314,2024-01-08 03:16:00,Temperature,Building C,23.46,°C,Active
+SENSOR_0315,2024-01-19 01:51:00,Pressure,Building A,1015.1,hPa,Maintenance
+SENSOR_0316,2024-01-29 06:34:00,Motion,Building B,1.0,boolean,Active
+SENSOR_0317,2024-01-20 16:33:00,Pressure,Building B,1022.8,hPa,Active
+SENSOR_0318,2024-01-07 20:24:00,Humidity,Building B,51.9,%,Active
+SENSOR_0319,2024-01-11 21:25:00,Motion,Building A,0.0,boolean,Maintenance
+SENSOR_0320,2024-01-12 14:44:00,Light,Parking Lot,928.0,lux,Active
+SENSOR_0321,2024-01-29 23:02:00,Pressure,Building B,1012.3,hPa,Active
+SENSOR_0322,2024-01-30 21:28:00,Pressure,Building B,1017.8,hPa,Maintenance
+SENSOR_0323,2024-01-28 12:35:00,Motion,Warehouse,1.0,boolean,Active
+SENSOR_0324,2024-01-10 19:23:00,Temperature,Building C,21.54,°C,Active
+SENSOR_0325,2024-01-05 13:23:00,Humidity,Building B,48.7,%,Active
+SENSOR_0326,2024-01-06 17:16:00,Light,Building B,647.0,lux,Maintenance
+SENSOR_0327,2024-01-23 12:50:00,Temperature,Building C,20.58,°C,Active
+SENSOR_0328,2024-01-05 07:39:00,Pressure,Building A,1024.0,hPa,Active
+SENSOR_0329,2024-01-30 18:23:00,Temperature,Building B,23.4,°C,Active
+SENSOR_0330,2024-01-23 06:08:00,Light,Building C,252.0,lux,Maintenance
+SENSOR_0331,2024-01-17 22:18:00,Temperature,Warehouse,25.91,°C,Active
+SENSOR_0332,2024-01-02 01:34:00,Humidity,Building C,36.6,%,Active
+SENSOR_0333,2024-01-22 22:57:00,Temperature,Building B,22.41,°C,Maintenance
+SENSOR_0334,2024-01-01 21:09:00,Light,Warehouse,689.0,lux,Active
+SENSOR_0335,2024-01-19 04:13:00,Humidity,Warehouse,77.5,%,Active
+SENSOR_0336,2024-01-30 21:14:00,Humidity,Parking Lot,62.7,%,Active
+SENSOR_0337,2024-01-07 13:35:00,Light,Warehouse,614.0,lux,Active
+SENSOR_0338,2024-01-19 18:25:00,Pressure,Warehouse,1016.9,hPa,Active
+SENSOR_0339,2024-01-03 13:32:00,Temperature,Building B,21.77,°C,Active
+SENSOR_0340,2024-01-03 15:36:00,Pressure,Building A,1012.7,hPa,Active
+SENSOR_0341,2024-01-24 10:30:00,Light,Parking Lot,231.0,lux,Active
+SENSOR_0342,2024-01-11 14:39:00,Humidity,Parking Lot,35.2,%,Maintenance
+SENSOR_0343,2024-01-16 02:29:00,Humidity,Building C,76.4,%,Active
+SENSOR_0344,2024-01-12 13:46:00,Humidity,Building C,64.9,%,Active
+SENSOR_0345,2024-01-13 03:38:00,Light,Building B,639.0,lux,Active
+SENSOR_0346,2024-01-12 15:46:00,Humidity,Building A,36.7,%,Active
+SENSOR_0347,2024-01-10 16:37:00,Temperature,Building B,22.29,°C,Active
+SENSOR_0348,2024-01-13 15:21:00,Light,Parking Lot,635.0,lux,Maintenance
+SENSOR_0349,2024-01-30 02:44:00,Light,Building C,620.0,lux,Active
+SENSOR_0350,2024-01-21 10:27:00,Pressure,Warehouse,1013.7,hPa,Active
+SENSOR_0351,2024-01-19 15:04:00,Temperature,Warehouse,21.19,°C,Active
+SENSOR_0352,2024-01-08 23:46:00,Motion,Building A,1.0,boolean,Maintenance
+SENSOR_0353,2024-01-24 05:22:00,Temperature,Warehouse,20.46,°C,Maintenance
+SENSOR_0354,2024-01-16 16:07:00,Humidity,Warehouse,45.7,%,Active
+SENSOR_0355,2024-01-05 17:14:00,Light,Warehouse,661.0,lux,Active
+SENSOR_0356,2024-01-15 11:28:00,Humidity,Building B,30.6,%,Active
+SENSOR_0357,2024-01-06 05:13:00,Light,Building B,474.0,lux,Maintenance
+SENSOR_0358,2024-01-24 15:07:00,Pressure,Building B,1012.8,hPa,Maintenance
+SENSOR_0359,2024-01-23 11:54:00,Humidity,Parking Lot,61.1,%,Maintenance
+SENSOR_0360,2024-01-12 08:08:00,Motion,Parking Lot,1.0,boolean,Maintenance
+SENSOR_0361,2024-01-12 13:57:00,Humidity,Building C,31.3,%,Active
+SENSOR_0362,2024-01-04 09:58:00,Light,Building C,582.0,lux,Active
+SENSOR_0363,2024-01-16 21:47:00,Light,Warehouse,967.0,lux,Maintenance
+SENSOR_0364,2024-01-14 23:37:00,Humidity,Parking Lot,77.8,%,Maintenance
+SENSOR_0365,2024-01-06 21:08:00,Motion,Building B,0.0,boolean,Active
+SENSOR_0366,2024-01-20 20:04:00,Motion,Building B,0.0,boolean,Active
+SENSOR_0367,2024-01-05 21:10:00,Temperature,Building A,18.18,°C,Maintenance
+SENSOR_0368,2024-01-12 16:17:00,Pressure,Parking Lot,1017.4,hPa,Active
+SENSOR_0369,2024-01-14 10:03:00,Motion,Building B,0.0,boolean,Active
+SENSOR_0370,2024-01-02 06:10:00,Light,Warehouse,444.0,lux,Active
+SENSOR_0371,2024-01-11 10:05:00,Humidity,Building C,67.1,%,Active
+SENSOR_0372,2024-01-25 14:44:00,Light,Parking Lot,541.0,lux,Active
+SENSOR_0373,2024-01-27 18:37:00,Humidity,Building B,41.9,%,Maintenance
+SENSOR_0374,2024-01-09 14:39:00,Light,Warehouse,966.0,lux,Maintenance
+SENSOR_0375,2024-01-29 22:43:00,Pressure,Warehouse,1020.0,hPa,Active
+SENSOR_0376,2024-01-19 14:45:00,Pressure,Building B,1012.5,hPa,Active
+SENSOR_0377,2024-01-24 14:51:00,Humidity,Warehouse,59.1,%,Active
+SENSOR_0378,2024-01-18 17:10:00,Light,Building C,361.0,lux,Active
+SENSOR_0379,2024-01-19 19:39:00,Humidity,Building C,48.4,%,Maintenance
+SENSOR_0380,2024-01-07 01:14:00,Motion,Building B,0.0,boolean,Active
+SENSOR_0381,2024-01-24 03:07:00,Motion,Building C,0.0,boolean,Active
+SENSOR_0382,2024-01-11 13:19:00,Pressure,Parking Lot,1010.8,hPa,Active
+SENSOR_0383,2024-01-26 12:11:00,Light,Warehouse,515.0,lux,Maintenance
+SENSOR_0384,2024-01-02 16:03:00,Temperature,Building A,20.43,°C,Active
+SENSOR_0385,2024-01-26 16:59:00,Humidity,Parking Lot,56.2,%,Maintenance
+SENSOR_0386,2024-01-30 10:59:00,Pressure,Warehouse,1019.0,hPa,Maintenance
+SENSOR_0387,2024-01-23 03:20:00,Light,Warehouse,855.0,lux,Active
+SENSOR_0388,2024-01-24 08:12:00,Temperature,Parking Lot,20.32,°C,Active
+SENSOR_0389,2024-01-24 16:40:00,Temperature,Building C,25.95,°C,Active
+SENSOR_0390,2024-01-28 09:40:00,Pressure,Parking Lot,1022.2,hPa,Maintenance
+SENSOR_0391,2024-01-13 11:07:00,Temperature,Warehouse,25.8,°C,Active
+SENSOR_0392,2024-01-21 23:50:00,Pressure,Warehouse,1019.4,hPa,Active
+SENSOR_0393,2024-01-07 20:47:00,Light,Parking Lot,25.0,lux,Active
+SENSOR_0394,2024-01-09 11:25:00,Humidity,Building B,58.2,%,Active
+SENSOR_0395,2024-01-20 10:20:00,Temperature,Parking Lot,19.2,°C,Active
+SENSOR_0396,2024-01-20 20:52:00,Motion,Parking Lot,1.0,boolean,Active
+SENSOR_0397,2024-01-10 14:47:00,Light,Warehouse,345.0,lux,Active
+SENSOR_0398,2024-01-27 18:06:00,Humidity,Building B,71.3,%,Active
+SENSOR_0399,2024-01-02 04:59:00,Pressure,Parking Lot,1021.9,hPa,Active
+SENSOR_0400,2024-01-14 15:34:00,Light,Warehouse,491.0,lux,Active
+SENSOR_0401,2024-01-22 18:50:00,Pressure,Building B,1019.1,hPa,Active
+SENSOR_0402,2024-01-18 09:57:00,Pressure,Parking Lot,1012.3,hPa,Active
+SENSOR_0403,2024-01-03 10:40:00,Temperature,Building B,22.54,°C,Active
+SENSOR_0404,2024-01-13 03:45:00,Temperature,Parking Lot,22.97,°C,Active
+SENSOR_0405,2024-01-04 11:39:00,Pressure,Building B,1023.8,hPa,Active
+SENSOR_0406,2024-01-30 12:11:00,Pressure,Building A,1011.5,hPa,Maintenance
+SENSOR_0407,2024-01-07 12:59:00,Light,Building A,213.0,lux,Active
+SENSOR_0408,2024-01-16 13:34:00,Humidity,Warehouse,44.0,%,Active
+SENSOR_0409,2024-01-20 11:53:00,Motion,Warehouse,0.0,boolean,Maintenance
+SENSOR_0410,2024-01-24 01:08:00,Light,Warehouse,701.0,lux,Active
+SENSOR_0411,2024-01-11 18:34:00,Pressure,Warehouse,1024.4,hPa,Active
+SENSOR_0412,2024-01-18 01:52:00,Pressure,Building A,1021.9,hPa,Active
+SENSOR_0413,2024-01-07 19:38:00,Pressure,Building C,1018.7,hPa,Active
+SENSOR_0414,2024-01-24 13:29:00,Motion,Building A,0.0,boolean,Active
+SENSOR_0415,2024-01-08 04:48:00,Humidity,Building B,34.5,%,Active
+SENSOR_0416,2024-01-02 11:48:00,Motion,Building B,0.0,boolean,Maintenance
+SENSOR_0417,2024-01-15 10:50:00,Temperature,Warehouse,24.83,°C,Active
+SENSOR_0418,2024-01-24 06:43:00,Pressure,Building A,1017.3,hPa,Active
+SENSOR_0419,2024-01-12 05:02:00,Humidity,Building C,73.8,%,Active
+SENSOR_0420,2024-01-21 21:01:00,Humidity,Building A,75.2,%,Active
+SENSOR_0421,2024-01-29 13:54:00,Pressure,Parking Lot,1014.5,hPa,Active
+SENSOR_0422,2024-01-14 14:26:00,Light,Building C,270.0,lux,Active
+SENSOR_0423,2024-01-22 20:29:00,Motion,Warehouse,0.0,boolean,Active
+SENSOR_0424,2024-01-29 22:58:00,Humidity,Building A,44.4,%,Active
+SENSOR_0425,2024-01-01 02:17:00,Light,Building C,99.0,lux,Maintenance
+SENSOR_0426,2024-01-13 16:45:00,Motion,Building B,0.0,boolean,Active
+SENSOR_0427,2024-01-21 13:49:00,Humidity,Warehouse,32.5,%,Active
+SENSOR_0428,2024-01-07 22:21:00,Light,Building A,775.0,lux,Active
+SENSOR_0429,2024-01-20 18:04:00,Motion,Building A,0.0,boolean,Active
+SENSOR_0430,2024-01-19 00:43:00,Light,Parking Lot,155.0,lux,Active
+SENSOR_0431,2024-01-23 22:02:00,Temperature,Building A,19.18,°C,Active
+SENSOR_0432,2024-01-23 03:30:00,Light,Building C,234.0,lux,Active
+SENSOR_0433,2024-01-14 00:55:00,Light,Warehouse,437.0,lux,Maintenance
+SENSOR_0434,2024-01-24 00:16:00,Pressure,Building A,1013.5,hPa,Maintenance
+SENSOR_0435,2024-01-16 01:51:00,Light,Parking Lot,535.0,lux,Maintenance
+SENSOR_0436,2024-01-10 03:21:00,Motion,Building B,0.0,boolean,Active
+SENSOR_0437,2024-01-28 04:55:00,Temperature,Warehouse,21.06,°C,Active
+SENSOR_0438,2024-01-11 07:33:00,Motion,Building B,0.0,boolean,Maintenance
+SENSOR_0439,2024-01-08 09:27:00,Light,Building B,537.0,lux,Active
+SENSOR_0440,2024-01-05 20:46:00,Temperature,Building B,18.11,°C,Active
+SENSOR_0441,2024-01-15 06:20:00,Motion,Building A,1.0,boolean,Maintenance
+SENSOR_0442,2024-01-19 22:00:00,Humidity,Building A,73.7,%,Active
+SENSOR_0443,2024-01-22 15:51:00,Pressure,Building C,1024.7,hPa,Active
+SENSOR_0444,2024-01-27 18:54:00,Pressure,Parking Lot,1020.3,hPa,Active
+SENSOR_0445,2024-01-15 05:50:00,Temperature,Building C,23.67,°C,Active
+SENSOR_0446,2024-01-08 12:26:00,Motion,Warehouse,1.0,boolean,Maintenance
+SENSOR_0447,2024-01-08 08:21:00,Humidity,Building B,62.0,%,Active
+SENSOR_0448,2024-01-28 16:28:00,Light,Building C,745.0,lux,Maintenance
+SENSOR_0449,2024-01-23 13:59:00,Motion,Parking Lot,1.0,boolean,Active
+SENSOR_0450,2024-01-22 19:18:00,Temperature,Building A,21.26,°C,Maintenance
+SENSOR_0451,2024-01-25 18:39:00,Motion,Parking Lot,0.0,boolean,Active
+SENSOR_0452,2024-01-13 06:02:00,Temperature,Building B,18.77,°C,Maintenance
+SENSOR_0453,2024-01-09 20:58:00,Temperature,Warehouse,21.98,°C,Active
+SENSOR_0454,2024-01-08 18:47:00,Temperature,Parking Lot,19.37,°C,Active
+SENSOR_0455,2024-01-03 12:55:00,Light,Warehouse,712.0,lux,Active
+SENSOR_0456,2024-01-15 05:23:00,Temperature,Building B,18.87,°C,Active
+SENSOR_0457,2024-01-22 12:31:00,Light,Parking Lot,700.0,lux,Active
+SENSOR_0458,2024-01-24 01:47:00,Pressure,Building C,1011.0,hPa,Active
+SENSOR_0459,2024-01-16 05:15:00,Temperature,Warehouse,24.93,°C,Active
+SENSOR_0460,2024-01-07 10:00:00,Temperature,Parking Lot,18.52,°C,Active
+SENSOR_0461,2024-01-17 11:45:00,Temperature,Building A,20.6,°C,Active
+SENSOR_0462,2024-01-29 14:46:00,Motion,Parking Lot,1.0,boolean,Active
+SENSOR_0463,2024-01-25 11:17:00,Motion,Building C,0.0,boolean,Maintenance
+SENSOR_0464,2024-01-11 16:14:00,Humidity,Parking Lot,74.9,%,Active
+SENSOR_0465,2024-01-17 17:57:00,Motion,Parking Lot,1.0,boolean,Active
+SENSOR_0466,2024-01-22 00:32:00,Pressure,Warehouse,1022.6,hPa,Active
+SENSOR_0467,2024-01-07 04:15:00,Pressure,Warehouse,1011.7,hPa,Active
+SENSOR_0468,2024-01-25 19:23:00,Pressure,Building B,1016.9,hPa,Active
+SENSOR_0469,2024-01-22 16:39:00,Motion,Building C,1.0,boolean,Active
+SENSOR_0470,2024-01-21 22:46:00,Humidity,Warehouse,75.1,%,Maintenance
+SENSOR_0471,2024-01-02 17:28:00,Motion,Building C,1.0,boolean,Active
+SENSOR_0472,2024-01-04 10:46:00,Pressure,Building B,1014.0,hPa,Active
+SENSOR_0473,2024-01-15 12:23:00,Pressure,Warehouse,1013.9,hPa,Active
+SENSOR_0474,2024-01-07 06:40:00,Light,Building B,190.0,lux,Maintenance
+SENSOR_0475,2024-01-21 09:45:00,Humidity,Building C,45.8,%,Active
+SENSOR_0476,2024-01-01 05:15:00,Light,Building C,610.0,lux,Active
+SENSOR_0477,2024-01-06 04:26:00,Humidity,Warehouse,78.8,%,Maintenance
+SENSOR_0478,2024-01-18 13:01:00,Motion,Parking Lot,0.0,boolean,Maintenance
+SENSOR_0479,2024-01-18 23:43:00,Pressure,Warehouse,1015.3,hPa,Active
+SENSOR_0480,2024-01-07 07:03:00,Light,Building C,819.0,lux,Active
+SENSOR_0481,2024-01-22 09:23:00,Pressure,Warehouse,1019.8,hPa,Active
+SENSOR_0482,2024-01-16 09:44:00,Humidity,Warehouse,43.1,%,Active
+SENSOR_0483,2024-01-02 23:40:00,Pressure,Building C,1023.6,hPa,Active
+SENSOR_0484,2024-01-27 02:08:00,Motion,Parking Lot,1.0,boolean,Maintenance
+SENSOR_0485,2024-01-17 08:25:00,Motion,Building C,0.0,boolean,Active
+SENSOR_0486,2024-01-30 03:08:00,Temperature,Parking Lot,19.48,°C,Active
+SENSOR_0487,2024-01-11 01:03:00,Temperature,Building C,25.23,°C,Active
+SENSOR_0488,2024-01-08 05:14:00,Pressure,Building A,1024.6,hPa,Active
+SENSOR_0489,2024-01-15 02:56:00,Motion,Building C,0.0,boolean,Active
+SENSOR_0490,2024-01-23 15:16:00,Humidity,Building B,66.2,%,Active
+SENSOR_0491,2024-01-06 15:20:00,Humidity,Building A,69.0,%,Maintenance
+SENSOR_0492,2024-01-07 02:03:00,Light,Warehouse,642.0,lux,Active
+SENSOR_0493,2024-01-03 18:01:00,Pressure,Building A,1024.1,hPa,Active
+SENSOR_0494,2024-01-26 12:59:00,Humidity,Parking Lot,48.4,%,Maintenance
+SENSOR_0495,2024-01-01 16:48:00,Motion,Building A,1.0,boolean,Active
+SENSOR_0496,2024-01-06 13:30:00,Light,Building C,593.0,lux,Active
+SENSOR_0497,2024-01-27 16:47:00,Motion,Warehouse,0.0,boolean,Active
+SENSOR_0498,2024-01-01 16:13:00,Temperature,Building A,19.84,°C,Active
+SENSOR_0499,2024-01-16 23:35:00,Temperature,Parking Lot,19.95,°C,Active
+SENSOR_0500,2024-01-14 15:21:00,Temperature,Warehouse,21.56,°C,Maintenance

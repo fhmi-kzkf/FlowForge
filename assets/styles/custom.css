@@ -1,0 +1,343 @@
+/* Custom CSS for FlowForge ETL Platform */
+
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+/* Root variables for consistent theming */
+:root {
+    --primary-blue: #1E3A8A;
+    --accent-orange: #F59E0B;
+    --background-white: #FFFFFF;
+    --text-dark: #1F2937;
+    --success-green: #10B981;
+    --error-red: #EF4444;
+    --warning-yellow: #F59E0B;
+    --light-gray: #F3F4F6;
+    --medium-gray: #9CA3AF;
+    --border-gray: #E5E7EB;
+}
+
+/* Override Streamlit's default font */
+.stApp {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+/* Main header styling */
+.main-header {
+    background: linear-gradient(135deg, var(--primary-blue) 0%, var(--accent-orange) 100%);
+    color: white;
+    padding: 1.5rem;
+    border-radius: 12px;
+    text-align: center;
+    margin-bottom: 2rem;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+
+.main-header h1 {
+    margin: 0;
+    font-weight: 700;
+    font-size: 2rem;
+}
+
+.main-header h3 {
+    margin: 0.5rem 0 0 0;
+    font-weight: 400;
+    opacity: 0.9;
+}
+
+/* Metric cards styling */
+.metric-card {
+    background: var(--background-white);
+    padding: 1.5rem;
+    border-radius: 12px;
+    border-left: 4px solid var(--primary-blue);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 1rem;
+}
+
+/* Custom button styles */
+.stButton > button {
+    background: linear-gradient(135deg, var(--primary-blue) 0%, var(--accent-orange) 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 0.5rem 1rem;
+    font-weight: 500;
+    transition: all 0.3s ease;
+}
+
+.stButton > button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(30, 58, 138, 0.3);
+}
+
+/* Primary button variant */
+.stButton > button[kind="primary"] {
+    background: var(--primary-blue);
+    box-shadow: 0 2px 4px rgba(30, 58, 138, 0.2);
+}
+
+/* Success message styling */
+.success-message {
+    background: linear-gradient(135deg, var(--success-green) 0%, #059669 100%);
+    color: white;
+    padding: 1rem;
+    border-radius: 8px;
+    margin: 1rem 0;
+}
+
+/* Error message styling */
+.error-message {
+    background: linear-gradient(135deg, var(--error-red) 0%, #DC2626 100%);
+    color: white;
+    padding: 1rem;
+    border-radius: 8px;
+    margin: 1rem 0;
+}
+
+/* Warning message styling */
+.warning-message {
+    background: linear-gradient(135deg, var(--warning-yellow) 0%, #D97706 100%);
+    color: white;
+    padding: 1rem;
+    border-radius: 8px;
+    margin: 1rem 0;
+}
+
+/* Step indicator styling */
+.step-indicator {
+    display: flex;
+    justify-content: space-between;
+    margin: 1.5rem 0;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.step {
+    background: var(--medium-gray);
+    color: white;
+    padding: 0.75rem 1.5rem;
+    border-radius: 25px;
+    font-weight: 600;
+    font-size: 0.9rem;
+    text-align: center;
+    flex: 1;
+    min-width: 120px;
+}
+
+.step.active {
+    background: var(--accent-orange);
+    transform: scale(1.05);
+    box-shadow: 0 4px 8px rgba(245, 158, 11, 0.3);
+}
+
+.step.completed {
+    background: var(--success-green);
+}
+
+/* Custom dataframe styling */
+.dataframe {
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Sidebar enhancements */
+.css-1d391kg {
+    background: linear-gradient(180deg, var(--light-gray) 0%, white 100%);
+}
+
+/* Tab styling */
+.stTabs [data-baseweb="tab-list"] {
+    gap: 8px;
+}
+
+.stTabs [data-baseweb="tab"] {
+    background: var(--light-gray);
+    border-radius: 8px 8px 0 0;
+    color: var(--text-dark);
+    font-weight: 500;
+    padding: 0.75rem 1.5rem;
+}
+
+.stTabs [aria-selected="true"] {
+    background: var(--primary-blue);
+    color: white;
+}
+
+/* Progress bar styling */
+.stProgress .st-bo {
+    background: linear-gradient(90deg, var(--primary-blue) 0%, var(--accent-orange) 100%);
+}
+
+/* Expander styling */
+.streamlit-expanderHeader {
+    background: var(--light-gray);
+    border-radius: 8px;
+    font-weight: 500;
+}
+
+/* File uploader styling */
+.stFileUploader > div {
+    border: 2px dashed var(--border-gray);
+    border-radius: 12px;
+    background: var(--light-gray);
+    padding: 2rem;
+    text-align: center;
+    transition: all 0.3s ease;
+}
+
+.stFileUploader > div:hover {
+    border-color: var(--primary-blue);
+    background: rgba(30, 58, 138, 0.05);
+}
+
+/* Selectbox styling */
+.stSelectbox > div > div {
+    border-radius: 8px;
+    border: 1px solid var(--border-gray);
+}
+
+/* Text input styling */
+.stTextInput > div > div > input {
+    border-radius: 8px;
+    border: 1px solid var(--border-gray);
+    padding: 0.75rem;
+}
+
+.stTextInput > div > div > input:focus {
+    border-color: var(--primary-blue);
+    box-shadow: 0 0 0 1px var(--primary-blue);
+}
+
+/* Multiselect styling */
+.stMultiSelect > div > div {
+    border-radius: 8px;
+    border: 1px solid var(--border-gray);
+}
+
+/* Slider styling */
+.stSlider > div > div > div > div {
+    background: var(--primary-blue);
+}
+
+/* Checkbox styling */
+.stCheckbox > label > div:first-child {
+    border-radius: 4px;
+    border: 2px solid var(--border-gray);
+}
+
+.stCheckbox > label > div:first-child:has(input:checked) {
+    background: var(--primary-blue);
+    border-color: var(--primary-blue);
+}
+
+/* Custom info boxes */
+.info-box {
+    background: rgba(30, 58, 138, 0.1);
+    border-left: 4px solid var(--primary-blue);
+    padding: 1rem;
+    border-radius: 0 8px 8px 0;
+    margin: 1rem 0;
+}
+
+.success-box {
+    background: rgba(16, 185, 129, 0.1);
+    border-left: 4px solid var(--success-green);
+    padding: 1rem;
+    border-radius: 0 8px 8px 0;
+    margin: 1rem 0;
+}
+
+.warning-box {
+    background: rgba(245, 158, 11, 0.1);
+    border-left: 4px solid var(--warning-yellow);
+    padding: 1rem;
+    border-radius: 0 8px 8px 0;
+    margin: 1rem 0;
+}
+
+.error-box {
+    background: rgba(239, 68, 68, 0.1);
+    border-left: 4px solid var(--error-red);
+    padding: 1rem;
+    border-radius: 0 8px 8px 0;
+    margin: 1rem 0;
+}
+
+/* Loading animation */
+@keyframes pulse {
+    0% { opacity: 0.6; }
+    50% { opacity: 1; }
+    100% { opacity: 0.6; }
+}
+
+.loading {
+    animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .main-header h1 {
+        font-size: 1.5rem;
+    }
+    
+    .step-indicator {
+        flex-direction: column;
+    }
+    
+    .step {
+        min-width: unset;
+    }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: var(--light-gray);
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--medium-gray);
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: var(--primary-blue);
+}
+
+/* Hide Streamlit menu and footer */
+#MainMenu {visibility: hidden;}
+footer {visibility: hidden;}
+header {visibility: hidden;}
+
+/* Custom spacing */
+.block-container {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+/* Card-like containers */
+.card {
+    background: white;
+    border-radius: 12px;
+    padding: 1.5rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 1.5rem;
+    border: 1px solid var(--border-gray);
+}
+
+/* Highlight important metrics */
+.metric-highlight {
+    background: linear-gradient(135deg, var(--primary-blue), var(--accent-orange));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    font-weight: 700;
+    font-size: 1.2em;
+}
